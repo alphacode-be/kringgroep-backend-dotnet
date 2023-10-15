@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kringgroep-backend", "kringgroep-backend\kringgroep-backend.csproj", "{4E623ECA-0740-4913-96D9-2600D53669BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E623ECA-0740-4913-96D9-2600D53669BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E623ECA-0740-4913-96D9-2600D53669BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E623ECA-0740-4913-96D9-2600D53669BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E623ECA-0740-4913-96D9-2600D53669BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

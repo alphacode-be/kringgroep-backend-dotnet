@@ -1,0 +1,11 @@
+.idea/
+.DS_Store/
+
+# Ignore build output and other generated files
+bin/
+obj/
+
+# Ignore user-specific settings files
+*.suo
+*.user
+*.sln.docstates
